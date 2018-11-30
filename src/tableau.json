@@ -1,0 +1,16 @@
+[
+    {
+        "tableau": {
+            "province": [
+                {
+                    "text": "fzf",
+                    "id": 1543573401149
+                }
+            ],
+            "ville": [
+                "ville1",
+                "ville2"
+            ]
+        }
+    }
+]
